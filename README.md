@@ -29,6 +29,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhasanand2405&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Abhasanand2405/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhasanand2405&theme=dark)](https://git.io/streak-stats)
 
+![snake gif](https://github.com/Abhasanand2405/Abhasanand2405/blob/output/github-contribution-grid-snake.gif)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
