@@ -16,6 +16,16 @@
 
 ---
 
+</head>
+<body>
+    <h2>Visit My Profiles</h2>
+    <p><a href="https://abhasanand2405.github.io/" target="_blank">Click Here</a> for Portfolio</p>
+    <p><a href="https://www.linkedin.com/in/abhasanand2405/" target="_blank">Click Here</a> for LinkedIn</p>
+</body>
+</html>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhasanand2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhasanand2405" height="30" width="40" /></a>
